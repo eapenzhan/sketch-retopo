@@ -1,0 +1,4 @@
+"#version 120\n",
+"void main() {\n",
+"    gl_FragColor = gl_Color;\n",
+"}\n",
